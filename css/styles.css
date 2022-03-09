@@ -1,0 +1,45 @@
+body{
+  text-align: center;
+  font-family:Outfit, serif;
+  margin:auto;
+  background-color: hsl(212, 45%, 89%);
+}
+
+h2{
+  font-weight: 700;
+  width: 80%;
+  margin: auto;
+  padding-bottom: 15px;
+
+}
+
+p{
+  font-weight: 400;
+  width: 80%;
+  margin: auto;
+  color: hsl(220, 15%, 55%);
+
+}
+
+img{
+  width: 280px;
+  margin-top: 15px;
+  border-radius: 5%;
+}
+
+
+
+.white-bg{
+  background-color: hsl(0, 0%, 100%);
+  width:375px;
+  margin:auto;
+    border-radius: 5%;
+    margin-top: 200px;
+    height: auto;
+}
+
+.attribution{
+  margin:10px auto 10px;
+  font-size: 10px;
+  padding-bottom: 10px;
+}
